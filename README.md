@@ -37,10 +37,6 @@ brew services start tor
 ```bash
 go mod tidy
 
-# Projeyi derle
-go build -o tor-scraper main.go
-
-# veya doğrudan çalıştır
 go run main.go
 ```
 

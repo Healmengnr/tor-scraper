@@ -23,8 +23,8 @@ targets:
   - name: "Cebulka"
     url: "http://cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion/"
       
-  - name: "Torland"
-    url: "http://torlgu6zhhtwe73fdu76uiswgnkfvukqfujofxjfo7vzoht2rndyhxyd.onion/"
+  - name: "The Green Machine"
+    url: "http://vw5vzi62xqhihghvonatid7imut2rkgiudl3xomj4jftlmanuwh4r2qd.onion/"
   
   - name: "DeepDotWeb"
     url: "http://deepdotwebz6w7347e6x7lv7yw54qfqmw23op3l3n5565qghjodt4yd.onion/"
@@ -37,4 +37,7 @@ targets:
   
   - name: "Not Evil"
     url: "http://notevil2ebbr5xjww6nryjta7bycbriyi2vh7an3wcuovlznvobykmad.onion/"
+
+  - name: "Ramble"
+    url: "http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion"
   
